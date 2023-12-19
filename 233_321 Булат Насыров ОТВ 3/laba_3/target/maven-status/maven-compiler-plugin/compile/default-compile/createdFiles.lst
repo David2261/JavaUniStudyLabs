@@ -1,0 +1,5 @@
+com\example\domain\Motherboard.class
+com\example\domain\Videocard.class
+com\example\domain\Processor.class
+HardwareTest.class
+com\example\domain\Hardware.class
